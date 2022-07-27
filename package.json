@@ -41,7 +41,7 @@
     "@types/react-router-dom": "^5.1.7",
     "@types/simple-react-lightbox": "^3.6.1",
     "@types/styled-components": "^5.1.10",
-    "antd": "^4.16.1",
+    "antd": "^4.21.5",
     "avalanche": "3.7.0",
     "axios": "^0.21.1",
     "bn.js": "^5.2.0",
