@@ -30,7 +30,7 @@
     "@metamask/detect-provider": "^1.2.0",
     "@polkadot/api": "^6.4.2",
     "@segment/snippet": "^4.14.2",
-    "@solana/web3.js": "^1.15.0",
+    "@solana/web3.js": "^1.47.3",
     "@taquito/signer": "^10.0.0",
     "@taquito/taquito": "^10.0.0",
     "@types/js-yaml": "^4.0.3",
